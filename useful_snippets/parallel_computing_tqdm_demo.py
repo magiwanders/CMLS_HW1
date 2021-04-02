@@ -4,7 +4,7 @@ from tqdm import tqdm
 from p_tqdm import p_map
 
 # This contains all the inputs to the function that can be parallelized. This example parallelizes 300 instances of an expensive function. As the expensive data takes 0.01 seconds, the WCS is 3 seconds + overhead.
-inputs = np.random.rand(3000)
+inputs = np.random.rand(300)
 out_trad = []
 out_parall = []
 
