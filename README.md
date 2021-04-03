@@ -1,9 +1,9 @@
 # CMLS_HW1
 
 
-[k nearest neighbours] (https://scikit-learn.org/stable/modules/neighbors.html#classification)
-[GMM] (https://scikit-learn.org/stable/modules/mixture.html)
-[SVM] (https://scikit-learn.org/stable/modules/svm.html#svm-classification)
+[k nearest neighbours] (https://scikit-learn.org/stable/modules/neighbors.html#classification)  
+[GMM] (https://scikit-learn.org/stable/modules/mixture.html)  
+[SVM] (https://scikit-learn.org/stable/modules/svm.html#svm-classification)  
 
 | Type                       | Feature                    | Librosa                       | Essentia                            |
 |----------------------------|----------------------------|-------------------------------|-------------------------------------|
