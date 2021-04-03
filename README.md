@@ -21,8 +21,8 @@
 | Timbral Descriptors        | Log Attack Time            | /                             | LogAttackTime(signal)               |
 |                            | Temporal Centroid          | /easy to do by hand           | ~ TCToTotal(envelope)               |
 |                            | MFCC                       | mfcc(y, sr, ...)              | MFCC(spectrum)                      |
-| Altro                      | Altro                      | reference                     | reference                           |
-|                            |                            |                               | how to work with python             |
+| Altro                      | Altro                      | [reference](https://librosa.org/doc/main/feature.html)                     | [reference](https://essentia.upf.edu/algorithms_reference.html)                           |
+|                            |                            |                               | [how to work with python](https://essentia.upf.edu/essentia_python_tutorial.html)             |
 |                            | Altra roba interessante    |                               |                                     |
 |                            | [Urban sound classif.1](https://towardsdatascience.com/urban-sound-classification-part-1-99137c6335f9)      |                               |                                     |
 |                            | [Urban sound classif.2](https://towardsdatascience.com/urban-sound-classification-part-2-sample-rate-conversion-librosa-ba7bc88f209a)      |                               |                                     |
