@@ -1,5 +1,6 @@
 # CMLS_HW1
 
+[Authors' Paper](http://www.justinsalamon.com/uploads/4/3/9/4/4394963/salamon_urbansound_acmmm14.pdf)
 
 [k nearest neighbours](https://scikit-learn.org/stable/modules/neighbors.html#classification)  
 [GMM](https://scikit-learn.org/stable/modules/mixture.html)  
