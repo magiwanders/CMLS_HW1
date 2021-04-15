@@ -1,4 +1,7 @@
 # CMLS_HW1
+Folder structure:
+* [src folder](src/): Colab notebooks for dataset analysis, feature extraction, training and testing   
+* [guidelines folder](guidelines/): all the guidelines and requirements for the homework
 
 ## Overleaf link to the report
 https://www.overleaf.com/5477346787fvnmpnppjygz
