@@ -1,7 +1,11 @@
 # CMLS_HW1
 
-[Authors' Paper](http://www.justinsalamon.com/uploads/4/3/9/4/4394963/salamon_urbansound_acmmm14.pdf)
+## Overleaf link to the report
+https://www.overleaf.com/5477346787fvnmpnppjygz
 
+
+## Misc stuff
+[Authors' Paper](http://www.justinsalamon.com/uploads/4/3/9/4/4394963/salamon_urbansound_acmmm14.pdf)
 [k nearest neighbours](https://scikit-learn.org/stable/modules/neighbors.html#classification)  
 [GMM](https://scikit-learn.org/stable/modules/mixture.html)  
 [SVM](https://scikit-learn.org/stable/modules/svm.html#svm-classification)  
@@ -27,5 +31,3 @@
 |                            | Altra roba interessante    |                               |                                     |
 |                            | [Urban sound classif.1](https://towardsdatascience.com/urban-sound-classification-part-1-99137c6335f9)      |                               |                                     |
 |                            | [Urban sound classif.2](https://towardsdatascience.com/urban-sound-classification-part-2-sample-rate-conversion-librosa-ba7bc88f209a)      |                               |                                     |
-
-![Classes Statistics](Classes.png)
