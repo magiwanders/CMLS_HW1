@@ -1,4 +1,5 @@
 UrbanSound8K/
+<<<<<<< HEAD
 src/fold1
 src/fold2
 src/fold3
@@ -9,3 +10,6 @@ src/fold7
 src/fold8
 src/fold9
 src/fold10
+=======
+.ipynb_checkpoints/
+>>>>>>> da92452d5dd45ada954894c84d4a678c35277b97
