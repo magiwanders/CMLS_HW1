@@ -1,7 +1,7 @@
-# CMLS_HW1
+# CMLS HW1 - Urban Sound Classification with Support Vector Machines
 ## Folder structure:
-* [src folder](src/): contains all Colab notebooks for dataset analysis, feature extraction, training and validation. * 
-* [report_folder](report/): contains the report of the work, which explains in detail the reasoning behind the implementaion. Both the Latex code and compiled PDF are provided. 
+* [source code folder](src/): contains all Colab notebooks for dataset analysis, feature extraction, training and validation. * 
+* [report folder](report/): contains the report of the work, which explains in detail the reasoning behind the implementaion. Both the Latex code and compiled PDF are provided. 
 * [guidelines folder](guidelines/): contains all the guidelines and requirements for the homework.
 
 ## Summary
